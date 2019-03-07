@@ -157,7 +157,7 @@ venv.bak/
 
 # mypy
 .mypy_cache/
-
+.idea/
 .idea/vcs.xml
 .idea/workspace.xml
 static/
